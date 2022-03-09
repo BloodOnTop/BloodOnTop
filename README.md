@@ -1,4 +1,4 @@
-<a href="https://discord.gg/D6WqzNwf" target="_blank"> <img src="https://cdn.discordapp.com/attachments/853347983639052318/857962898718720030/Rdimos_Github.png" alt="Straight's Github"/></a>
+<a href="https://discord.gg/D6WqzNwf" target="_blank"> <img src="https://cdn.discordapp.com/avatars/944609873822380112/2d7c8032cb3ef85e143a833d8f64ca2d.webp?size=128" alt="Straight's Github"/></a>
 ```js
 npm install a-life
 ```
@@ -11,7 +11,7 @@ npm install a-life
 
 📩・**Want to reach? Add Shadowム#8433 on [discord](https://discord.gg/D6WqzNwf) or mail tomer.volchek@gmail.com**
 </a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Straight&count_private=true&hide=procfile&theme=dark&border_color=000000&cache_seconds=1800&layout=compact&langs_count=10&custom_title=Most Used Coding Languages" alt="Straight12" /> </p>
-🌐・**Discord: [https://discord.gg/D6WqzNwf]https://discord.gg/D6WqzNwf)**
+🌐・**Discord: [https://discord.gg/D6WqzNwf](https://discord.gg/D6WqzNwf)**
 
 <a href="https://discord.gg/D6WqzNwf" target="_blank"> <img src="https://discord.c99.nl/widget/theme-2/944609873822380112.png"/></a>
 <a href="https://discord.gg/D6WqzNwf" target="_blank"><img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
