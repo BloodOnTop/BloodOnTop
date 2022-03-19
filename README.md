@@ -9,7 +9,7 @@ npm install a-life
 
 ✔️・**Latest open source project [None](https://github.com/Straight12)**
 
-📩・**Want to reach? Add Shadowム#8433 on [discord](https://discord.gg/D6WqzNwf)**
+📩・**Want to reach? Add Straight#8433 on [discord](https://discord.gg/D6WqzNwf)**
 </a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Straight&count_private=true&hide=procfile&theme=dark&border_color=000000&cache_seconds=1800&layout=compact&langs_count=10&custom_title=Most Used Coding Languages" alt="Straight12" /> </p>
 🌐・**Discord: [https://discord.gg/D6WqzNwf](https://discord.gg/D6WqzNwf)**
 
