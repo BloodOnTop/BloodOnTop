@@ -1,3 +1,5 @@
+<a href="#"><img width="100%" height="auto" src="logo.gif" height="175px"/></a>
+
 #
 <p align=center>
 <a href="https://discord.com/users/944609873822380112">
