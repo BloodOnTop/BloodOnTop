@@ -15,7 +15,7 @@ class Staight:
         self.role = "Developer"
         self.language = ["Python" ,"Javascript"]
         self.language_learning = ["C#", "Go"]
-        self.language_spoken = ["fr_FR", "en_US", "ar_AR", "he_IL",]
+        self.language_spoken = ["fr_FR", "en_US", "ar_AR", "he_IL", "ru,RU",]
     def say_hi(self):
         print("Hope you find some of my work interesting.")
 me = Straight()
