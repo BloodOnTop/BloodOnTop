@@ -2,8 +2,8 @@
 
 #
 <p align=center>
-<a href="https://discord.com/users/944609873822380112">
-<img src="https://discord.c99.nl/widget/theme-5/979681381225467905.png" width=60%>
+<a href="https://discord.com/users/997148423314751489">
+<img src="https://discord.c99.nl/widget/theme-4/997148423314751489.png" width=60%>
 </a>
   </p>
 
